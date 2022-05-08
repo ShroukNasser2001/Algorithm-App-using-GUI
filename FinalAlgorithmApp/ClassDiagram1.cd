@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalAlgorithmApp.BinarySearch" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAACAA=</HashCode>
+      <FileName>BinarySearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.Department">
+    <Position X="1" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAQAAAAQAAgAAAAUIQAAQAAACEAYAAAgBAAAIAAgA=</HashCode>
+      <FileName>Department-Appoitment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.Appoitment">
+    <Position X="6.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAgEAAAgAAEAAAAQFACAAAQAAAAAAABACgA=</HashCode>
+      <FileName>Department-Appoitment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.Doctor">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAggAAAAIAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.DoctorForm" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAABICAAGDQAQACAAAgCBAQCAAQECIBIBQBYAAA=</HashCode>
+      <FileName>DoctorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.IDs" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAEAAAAIAAAQAAAAAAAA=</HashCode>
+      <FileName>IDs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.LoginReg" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAABAAACBBBACEAAAAgAAAAAABAAQEAA=</HashCode>
+      <FileName>LoginReg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.ManagerForm" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAABACAQEDQIBACEAAgCAAQCAAQACMAIBQDQBAA=</HashCode>
+      <FileName>ManagerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.Medicine" Collapsed="true">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAACAAAAAgAAAAAA=</HashCode>
+      <FileName>Medicine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.Patient">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAACAAAAAgAAAAAAAAgA=</HashCode>
+      <FileName>Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.PatientForm" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BRAMIAQBAGAgWLQAQACAIAiCIAxCAAQESIBIBQBYAAA=</HashCode>
+      <FileName>PatientForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.Person">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAQAAQACYAEAQmAQAAAAUAQAgAAAAoBAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.Program" Collapsed="true">
+    <Position X="13.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.WelcomeForm" Collapsed="true">
+    <Position X="11" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAYCAAQAICAAChAKQASYkSAiAlCQIAAAAAwBlACAAAA=</HashCode>
+      <FileName>WelcomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.Properties.Resources" Collapsed="true">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.Properties.Settings" Collapsed="true">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.AddMedicine">
+    <Position X="3.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABEAAAAACACAAAAAADAAAACAAAAAACAAAQAAAACgAA=</HashCode>
+      <FileName>userControl\AddMedicine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.DetailAppoitDocControl" Collapsed="true">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BUCAIhAAAiAAAhAJpEGAAAACBBAAAAABAAAAAoQQAAA=</HashCode>
+      <FileName>userControl\DetailAppoitDocControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.DetailAppoitPatientControl" Collapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BUABIxQAAiAAABAJIECAAAAKBBBABAAAAAAAAAAQQEA=</HashCode>
+      <FileName>userControl\DetailAppoitPatientControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.DoctorDetialManControl" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAgABAAAiAISBBAgACAAgACEBAAAAAAAAhAIAIQBQA=</HashCode>
+      <FileName>userControl\DoctorDetialManControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.HomeDoctorControl" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GwCAIRYIAiAAADAIBACAIAAHgQAAJEAAAAQEAARQAAA=</HashCode>
+      <FileName>userControl\HomeDoctorControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.HomePatientControl" Collapsed="true">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OwKEBFAIgiAAgDAIBACCIAAHAAgAIAAwQAQAgARQghA=</HashCode>
+      <FileName>userControl\HomePatientControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.LogDocControl" Collapsed="true">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAAAEAAiAACBAAAACAAAACgAgAAQAAQAgAAAAQAAA=</HashCode>
+      <FileName>userControl\LogDocControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.LoginPatControl" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARgAIAUAAiAACBBQAACABAQCAAgAAQAAQBgAAABQAIA=</HashCode>
+      <FileName>userControl\LoginPatControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.NewAppoitment" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAJAAAAiEAgBFIAACEAAACAAgAAAAwAAAAAABwAAA=</HashCode>
+      <FileName>userControl\NewAppoitment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.RegDocManControl" Collapsed="true">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GwAAAAQABCAAADAAAACgAAAiAAAAIAAAAARgAASAAAA=</HashCode>
+      <FileName>userControl\RegDocManControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.RegPatControl" Collapsed="true">
+    <Position X="8.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GgAgAAMJBCAQCJBAAACIJAAiAAgAIAAAAAQAAARQBBA=</HashCode>
+      <FileName>userControl\RegPatControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalAlgorithmApp.userControl.ShowDeptManegControl" Collapsed="true">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DQISCgAAUKBACABAGAiACAACBAAAABAAAAgABAIQoAA=</HashCode>
+      <FileName>userControl\ShowDeptManegControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="FinalAlgorithmApp.Messages" Collapsed="true">
+    <Position X="8.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAAAAAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Messages.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
